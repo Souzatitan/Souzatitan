@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre min:
 🔭 Trabalhando em um projeto da Epic Pixel<br>👯 Procurando freelancers <br>🤝 Procuro ajuda de quem queira trabalhar com fron-end<br>🌱 Estou aprendendo React.js Figma<br>💬 Falo sobre assuntos relativos a front-end
 
 
