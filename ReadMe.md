@@ -1,5 +1,5 @@
 # 💫 Sobre min:
-🔭 Trabalhando em um projeto da Epic Pixel<br>👯 Procurando freelancers <br>🤝 Procuro ajuda de quem queira trabalhar com fron-end<br>🌱 Estou aprendendo React.js Figma<br>💬 Falo sobre assuntos relativos a front-end
+👯 Buscando novas oportunidades como freelancer em projetos de desenvolvimento web.<br>🤝 Disponível para colaborar e ajudar em projetos front-end.<br>🌱 Continuo aprendendo React.js e Figma para aprimorar minhas habilidades.<br>💬 Gosto de discutir e compartilhar conhecimento sobre front-end e desenvolvimento web.
 
 
 ## 🌐 Socials:
